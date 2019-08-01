@@ -1,0 +1,74 @@
+
+body
+{
+	background-color:mistyrose;
+	color:palevioletred;
+	font-family: 'Lacquer', sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+
+	line-height: 1.6em;
+	margin: 0;
+}
+
+/* fonts kiana like
+eb garamond
+karla
+lato
+lora
+merriweather
+montserrat
+muli
+open sans
+oxygen
+playfair display
+pt serif
+raleway
+roboto
+source sans pro
+source serif pro
+*/
+
+a
+{
+	text-decoration: none;
+	color:palevioletred;
+}
+
+a:hover
+{
+	color:red;
+}
+
+::selection 
+{
+	background:palevioletred;
+	color:white;
+}
+
+.main-footer
+{
+	text-align: center;
+}
+
+.frontpage
+{
+	position:fixed;
+	margin-left: 20px;
+}
+
+.container
+{
+	width: 60%;
+	margin: auto;
+	text-align: center;
+}
+
+.box-1
+{
+	border: 5px pink solid;
+	padding: 20px;
+	margin: 20px 0;
+	text-align: center;
+	border-radius: 15px;
+}
